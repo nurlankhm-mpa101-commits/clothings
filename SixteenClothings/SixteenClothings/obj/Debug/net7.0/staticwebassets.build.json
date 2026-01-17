@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SrHVY1nwAcZ5a7g85R0VolDhbsH8VzQ4ueONGUqqapU=",
+  "Hash": "umMB6rCcvKOW2E93O6BcWLZ7llt6uPfB2JwhSieIesw=",
   "Source": "SixteenClothings",
   "BasePath": "_content/SixteenClothings",
   "Mode": "Default",
@@ -15028,6 +15028,23 @@
       "OriginalItemSpec": "wwwroot/assets/fonts/slick.woff"
     },
     {
+      "Identity": "/Users/nurlanmahmudov/Desktop/sixteenclothingsM/SixteenClothings/SixteenClothings/wwwroot/assets/images/5f1e1e9a-dabb-467d-8e5d-8c74bc58e072Unknown.jpeg",
+      "SourceId": "SixteenClothings",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nurlanmahmudov/Desktop/sixteenclothingsM/SixteenClothings/SixteenClothings/wwwroot/",
+      "BasePath": "_content/SixteenClothings",
+      "RelativePath": "assets/images/5f1e1e9a-dabb-467d-8e5d-8c74bc58e072Unknown.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/images/5f1e1e9a-dabb-467d-8e5d-8c74bc58e072Unknown.jpeg"
+    },
+    {
       "Identity": "/Users/nurlanmahmudov/Desktop/sixteenclothingsM/SixteenClothings/SixteenClothings/wwwroot/assets/images/about-heading.jpg",
       "SourceId": "SixteenClothings",
       "SourceType": "Discovered",
@@ -15077,23 +15094,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/assets/images/contact-heading.jpg"
-    },
-    {
-      "Identity": "/Users/nurlanmahmudov/Desktop/sixteenclothingsM/SixteenClothings/SixteenClothings/wwwroot/assets/images/e929aea9-d8ec-4f6e-8185-d46eb416af1eUnknown.jpeg",
-      "SourceId": "SixteenClothings",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/nurlanmahmudov/Desktop/sixteenclothingsM/SixteenClothings/SixteenClothings/wwwroot/",
-      "BasePath": "_content/SixteenClothings",
-      "RelativePath": "assets/images/e929aea9-d8ec-4f6e-8185-d46eb416af1eUnknown.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/assets/images/e929aea9-d8ec-4f6e-8185-d46eb416af1eUnknown.jpeg"
     },
     {
       "Identity": "/Users/nurlanmahmudov/Desktop/sixteenclothingsM/SixteenClothings/SixteenClothings/wwwroot/assets/images/feature-image.jpg",

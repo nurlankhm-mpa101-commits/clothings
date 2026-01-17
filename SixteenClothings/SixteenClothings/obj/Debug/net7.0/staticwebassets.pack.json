@@ -3529,6 +3529,10 @@
       "PackagePath": "staticwebassets/assets/fonts/slick.woff"
     },
     {
+      "Id": "/Users/nurlanmahmudov/Desktop/sixteenclothingsM/SixteenClothings/SixteenClothings/wwwroot/assets/images/5f1e1e9a-dabb-467d-8e5d-8c74bc58e072Unknown.jpeg",
+      "PackagePath": "staticwebassets/assets/images/5f1e1e9a-dabb-467d-8e5d-8c74bc58e072Unknown.jpeg"
+    },
+    {
       "Id": "/Users/nurlanmahmudov/Desktop/sixteenclothingsM/SixteenClothings/SixteenClothings/wwwroot/assets/images/about-heading.jpg",
       "PackagePath": "staticwebassets/assets/images/about-heading.jpg"
     },
@@ -3539,10 +3543,6 @@
     {
       "Id": "/Users/nurlanmahmudov/Desktop/sixteenclothingsM/SixteenClothings/SixteenClothings/wwwroot/assets/images/contact-heading.jpg",
       "PackagePath": "staticwebassets/assets/images/contact-heading.jpg"
-    },
-    {
-      "Id": "/Users/nurlanmahmudov/Desktop/sixteenclothingsM/SixteenClothings/SixteenClothings/wwwroot/assets/images/e929aea9-d8ec-4f6e-8185-d46eb416af1eUnknown.jpeg",
-      "PackagePath": "staticwebassets/assets/images/e929aea9-d8ec-4f6e-8185-d46eb416af1eUnknown.jpeg"
     },
     {
       "Id": "/Users/nurlanmahmudov/Desktop/sixteenclothingsM/SixteenClothings/SixteenClothings/wwwroot/assets/images/feature-image.jpg",
