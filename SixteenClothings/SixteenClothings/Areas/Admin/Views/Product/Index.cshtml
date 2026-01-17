@@ -1,0 +1,44 @@
+@model List<ProductGetVM>
+
+<div class="container">
+    <div class="row">
+        <div class="col-2">
+            <a class="btn btn-success" asp-action="Create">Create</a>
+        </div>
+        
+        <table class="table">
+            <thead class="thead-light">
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Name</th>
+                <th scope="col">Description</th>
+                <th scope="col">CategoryName</th>
+                <th scope="col">Price</th>
+                <th scope="col">Rating</th>
+                <th scope="col">Image</th>
+                <th scope="col">Action</th>
+            </tr>
+            </thead>
+            <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <th scope="row">@product.Id</th>
+                    <td>@product.Name</td>
+                    <td>@product.Description</td>
+                    <td>@product.Price</td>
+                    <td>@product.Rating</td>
+                    <td>@product.CategoryName</td>
+                    <td><img src="/assets/images/@product.ImagePath"/></td>
+                    <td>
+                        <a asp-action="Uptdate" class="btn btn-warning" asp-route-id="@product.Id">Update</a>
+                        <a asp-action="Delete" class="btn btn-danger" asp-route-id="@product.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+            </tbody>
+        </table>
+        
+    </div>
+
+</div>
